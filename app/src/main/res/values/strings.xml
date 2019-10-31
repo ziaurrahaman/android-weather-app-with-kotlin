@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitByKotlin</string>
+    <string name="default_query"> Enter the city name here</string>
+</resources>
